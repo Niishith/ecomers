@@ -1,0 +1,263 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+
+    padding: 0px;
+}
+.header h1{
+    padding-top: 10px;
+    padding-left: 50px;
+    display: inline-flex;
+    color: white;
+    flex-wrap: wrap;
+    font-size: 50px;
+    
+}
+.header a :hover{
+    color:bisque
+
+}
+.header h3{
+    display:inline-flex ;
+    padding-left: 250px;
+    color: white;
+    padding-top: 50px;
+    flex-wrap: wrap;
+}
+.bg{
+    background-image: linear-gradient(to right,rgb(38,42,83),rgb(98,131,149));
+    height: 120px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 19px;
+    margin-right: 19px;
+}
+.bg2{
+    background-image: linear-gradient(to right,rgb(38,42,83),rgb(98,131,149));
+    height: 120px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 19px;
+    margin-right: 19px;
+    
+}
+.header a{
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: inline-flex;
+  text-decoration: none;
+  position: relative;
+  
+
+}
+.pic{
+    background-image:url('intro-bg_1.jpg');
+    height: 80vh;
+    width:100;
+    margin-top: 10px;
+    background-size: cover;
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-color:rgb(141, 197, 216);
+    /* margin-left: 8%; */
+    
+    
+   
+    
+}
+.box{
+    height: 400px;
+    width: 300px;
+    border-radius: 19px;
+    justify-content:flex-start;
+ box-shadow: 6PX 7PX 17PX gray;
+
+    
+}
+
+
+.continer1{
+    display: inline-flex;
+    justify-content:space-evenly;
+    margin-top: 16px;
+    flex-wrap: wrap;
+    position:absolute;
+    left: 100px;
+    
+    
+}
+.continer2{
+    display: inline-flex;
+    justify-content:space-evenly;
+    margin-top: 16px;
+    flex-wrap: wrap;
+    position:absolute;
+    left: 100px;
+    
+    
+}
+.BOX1{
+   background-image: url('shirt.jpg'); 
+   height: 200PX;
+   width: 280PX;
+   background-size:350px 200px ;
+   background-repeat: no-repeat;
+   border-radius: 19px;
+   margin-top: 10px;
+   padding-bottom: PX;
+   border-bottom: 1px solid gray;
+   position: relative;
+   
+}
+
+     .p{
+         text-align: center;
+         margin-top:20%;
+        
+     }
+     .bOX2{
+        background-image: url('camera2.jpg'); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+
+     }
+    .box3{
+     background-image: url('watch.jpg'); 
+     height: 200PX;
+     width: 280PX;
+     background-size:350px 200px ;
+     background-repeat: no-repeat;
+     border-radius: 19px;
+     margin-top: 10px;
+     padding-bottom: PX;
+     border-bottom: 1px solid gray;
+     position: relative;
+    }
+    .box4{
+        background-image: url('game.jpg'); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+       }
+       .box5{
+        background-image: url('W.jpeg'); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+       }
+       .box6{
+        background-image: url('SHOOO.jpeg'); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+       }
+       .box7{
+        background-image: url("BABY.jpeg"); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+       }
+       .box8{
+        background-image: url('GG.jpg'); 
+        height: 200PX;
+        width: 280PX;
+        background-size:350px 200px ;
+        background-repeat: no-repeat;
+        border-radius: 19px;
+        margin-top: 10px;
+        padding-bottom: PX;
+        border-bottom: 1px solid gray;
+        position: relative;
+       }
+       #name{
+        padding:100px;
+        background-color: rgba(0, 0, 0,0.4);
+        width: 650px;
+        margin-top:0px;
+        color: rgb(253, 253, 253);
+       
+    }
+    .bg2{
+        background-image: linear-gradient(to right,rgb(255,183,64),rgb(253,228,156));
+        height: 120px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 19px;
+        margin-right: 19px;
+        margin-top: 30%;
+        border-radius: 9PX;
+    }
+    .MORE{
+        background-color: rgb(155, 146, 146);
+        border-radius: 4PX;
+        width: 120PX;
+        height: 40PX;
+        margin-left: 90PX;
+        margin-top: 30PX;
+        box-shadow: 2PX 8PX 4PX grey;
+        border: none;
+    }
+    .MORE:hover{
+background-color:rgb(45, 196, 223);;
+    }
+    .name h1{
+        animation-name: BIGGER;
+        animation-duration: 2S;
+        animation-iteration-count: infinite;
+        animation-delay: 1S;
+    
+    }
+    @keyframes BIGGER{
+        100%{transform: scale(2.5,2.5);}
+    } 
+    @media (min-width:320){
+        .all{
+            width: 320px;
+        }
+    }
+    @media (min-width:481){
+        .all{
+            width: 481px;
+        }
+    }
+    @media (min-width:641){
+        .all{
+            width: 614px;
+        }
+    }
+    @media (min-width:961){
+        .all{
+            width: 961px;
+        }
+    }
